@@ -24,4 +24,4 @@ The tool works across all supported configurations of Dynamics 365 / CRM 2016 an
 
 https://technet.microsoft.com/en-us/library/dn531050.aspx
 
-For usage instructions, please see the documentation.
+For usage instructions, please see the wiki.
