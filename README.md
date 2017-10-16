@@ -1,4 +1,4 @@
-# EWS Editor for D365
+# EWS Editor for Dynamics 365
 
 EWS Editor for Dynamics 365 is based off the original EWS Editor source and is designed to provide troubleshooting tools to help resolve Exchange server integration issues related to Server Side Synchronization and the E-mail Router. Below are the features available in the latest release:
 
