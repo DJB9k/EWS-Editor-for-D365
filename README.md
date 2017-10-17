@@ -1,5 +1,9 @@
 # EWS Editor for Dynamics 365
 
+Please see the "Releases" link above to download the binary executable. 
+
+About:
+
 EWS Editor for Dynamics 365 is based off the original EWS Editor source and is designed to provide troubleshooting tools to help resolve Exchange server integration issues related to Server Side Synchronization and the E-mail Router. Below are the features available in the latest release:
 
 -Natively inspect Dynamics 365 Extended Properties (crmid, crmLinkState, etc) in any EWS Editor grid that contains items linked to 				Dynamics 365. 
