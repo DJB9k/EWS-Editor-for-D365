@@ -1,6 +1,6 @@
 # EWS Editor for Dynamics 365
 
-Please see the "Releases" link above to download the binary executable. 
+Please see the [Releases](https://github.com/DJB9k/EWS-Editor-for-D365/releases) to download the binary executable. 
 
 About:
 
