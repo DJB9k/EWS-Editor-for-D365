@@ -24,6 +24,10 @@ EWS Editor for Dynamics 365 is based off the original EWS Editor source and is 
 
 + Filter folder grids based on custom search parameters, as well as built-in filtering for Dynamics 365 items. 
 
++ Download MailApp manifests deployed to a mailbox via the MailApp Manager. The MailApp Manager also allows users to install or remove MailApps, as well as install the D365 Debug Addin. 
+
++ Scan folder items for errors that can occur when deserializing successful Exchange responses for items.
+
 The tool works across all supported configurations of Dynamics 365 / CRM 2016 and Exchange Server as outlined here: 
 
 https://technet.microsoft.com/en-us/library/dn531050.aspx
