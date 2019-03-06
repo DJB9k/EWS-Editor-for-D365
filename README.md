@@ -28,6 +28,8 @@ EWS Editor for Dynamics 365 is based off the original EWS Editor source and is 
 
 + Scan folder items for errors that can occur when deserializing successful Exchange responses for items.
 
++ Remove unwanted items using the Mailbox Cleanup Wizard. 
+
 The tool works across all supported configurations of Dynamics 365 / CRM 2016 and Exchange Server as outlined here: 
 
 https://technet.microsoft.com/en-us/library/dn531050.aspx
